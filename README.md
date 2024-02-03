@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkargahanwat
-- 👀 I’m interested in computer coding
-- 🌱 I’m currently learning B.tech in computer science and enggneering
+- 👀 I’m interested in Software testing
+- 🌱 recently completed BTECH. in computer science and technology.(2023 batch)
 - �Email: om.omkarghanwat@gmail.com
 
 <!---
